@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### Added
+- New resource type: Allam Cycle with Oxygen Storage (#772).
+
 ### Changed
 - Changed the output filename for RSV from `reg_dn.csv` to `reserves.csv`.
 
